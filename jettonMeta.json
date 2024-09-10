@@ -1,7 +1,7 @@
 {
-    "name": "Test JetTon Token",
-    "description": "TJTT",
-    "symbol": "TJTT",
+    "name": "Test HK Token",
+    "description": "Test Hamster Komabt Token",
+    "symbol": "THKT",
     "decimals": 5,
-    "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/download%20(1).jpeg"
+    "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/jetton.jpeg"
 }
