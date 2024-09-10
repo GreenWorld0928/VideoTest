@@ -2,6 +2,6 @@
     "name": "Test HK Token",
     "description": "Test Hamster Komabt Token",
     "symbol": "THKT",
-    "decimals": 5,
+    "decimals": 0,
     "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/jetton.jpeg"
 }
