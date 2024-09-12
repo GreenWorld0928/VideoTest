@@ -2,6 +2,6 @@
     "name": "Unit Test Token",
     "description": "Unit Test Token",
     "symbol": "UTT",
-    "decimals": 5,
+    "decimals": 0,
     "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/jetton.jpeg"
 }
