@@ -1,7 +1,7 @@
 {
-    "name": "Airdrop Test Token",
-    "description": "Airdrop Test Token",
-    "symbol": "ATT",
-    "decimals": 0,
+    "name": "Unit Test Token",
+    "description": "Unit Test Token",
+    "symbol": "UTT",
+    "decimals": 5,
     "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/jetton.jpeg"
 }
