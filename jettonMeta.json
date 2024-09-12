@@ -1,7 +1,7 @@
 {
-    "name": "Test HK Token",
-    "description": "Test Hamster Komabt Token",
-    "symbol": "THKT",
+    "name": "Airdrop Test Token",
+    "description": "Airdrop Test Token",
+    "symbol": "ATT",
     "decimals": 0,
     "image": "https://raw.githubusercontent.com/GreenWorld0928/VideoTest/main/jetton.jpeg"
 }
